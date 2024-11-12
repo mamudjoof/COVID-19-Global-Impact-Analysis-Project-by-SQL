@@ -1,4 +1,4 @@
-![image alt](
+![image alt](https://github.com/mamudjoof/COVID-19-Global-Impact-Analysis-Project-by-SQL/blob/main/more-than-4-million-for-new-covid-19-research.jpg?raw=true)
 # OVERVIEW
 This project involves the analysis of COVID-19 data to assess infection rates, mortality rates, vaccination coverage, and trends across countries and continents. 
 By leveraging SQL queries, we aim to extract meaningful insights from the data, which can be further visualized and interpreted using Power BI. 
