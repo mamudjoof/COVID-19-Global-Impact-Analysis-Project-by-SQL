@@ -29,7 +29,7 @@ The following SQL queries and analyses were conducted to address the project’s
 + Comparative Metrics: Evaluated total cases, deaths, and vaccination coverage to identify continents and countries with the most significant challenges and successes in handling COVID-19.
 
 # Visualization
-![image alt]()
+![image alt](https://github.com/mamudjoof/COVID-19-Global-Impact-Analysis-Project-by-SQL/blob/main/Screenshot%20(245).png?raw=true)
 
 # WHY THE PROJECT IS USEFUL
 Understanding COVID-19 trends is crucial for public health policy and resource allocation. This project provides:
