@@ -1,8 +1,35 @@
 ![image alt](https://github.com/mamudjoof/COVID-19-Global-Impact-Analysis-Project-by-SQL/blob/main/more-than-4-million-for-new-covid-19-research.jpg?raw=true)
-# OVERVIEW
-This project involves the analysis of COVID-19 data to assess infection rates, mortality rates, vaccination coverage, and trends across countries and continents. 
-By leveraging SQL queries, we aim to extract meaningful insights from the data, which can be further visualized and interpreted using Power BI. 
-The goal is to understand the dynamics of COVID-19 across different regions, highlighting disparities in health outcomes and vaccination efforts.
+
+# TITLE: SQL AND POWER BI ANALYSIS OF GLOBAL COVID-19 DATA
+
+# OBJECTIVE
+This project aims to analyze global COVID-19 data to uncover patterns and trendsto understand the dynamics of COVID-19 across different regions. By leveraging SQL for data exploration and analysis, 
+the project provides actionable insights that can be visualized in Power BI dashboards to enhance understanding, inform policies, and guide public health decisions.
+
+# SOURCES OF DATA
+The dataset for this analysis was sourced from the official COVID-19 website. The link is https://ourworldindata.org/covid-deaths. Note the data update daily.
+
+# METHODOLOGY
+1. **SQL Exploration**: A series of SQL queries were executed to:
+    + Identify key metrics such as infection rates, mortality rates, and vaccination rates.
+    + Analyze disparities and trends across countries and continents.
+    + Highlight daily, cumulative, and comparative insights into the pandemic.
+
+2. **Visualization**:
+   The results of the SQL queries were exported to Power BI to create interactive and dynamic dashboards, allowing stakeholders to easily interpret and explore the data.
+
+# SQL Exploration
+The following SQL queries and analyses were conducted to address the project’s objectives:
++ Global Analysis: Counted the number of continents and countries represented in the dataset to ensure data completeness.
++ Mortality Analysis: Calculated probabilities of dying after contracting COVID-19 for specific countries, such as Poland, and continents.
++ Infection Rates: Determined the percentage of populations infected in various countries and identified those with the highest and lowest infection rates relative to their populations.
++ Vaccination Analysis: Investigated global vaccination trends, including daily and cumulative vaccination coverage at country and continent levels.
++ Disparity Analysis: Highlighted countries with the largest disparities between cases and deaths to understand regional variations in healthcare outcomes.
++ Trend Analysis: Examined daily trends of cases, deaths, and vaccinations to assess the progression of the pandemic over time.
++ Comparative Metrics: Evaluated total cases, deaths, and vaccination coverage to identify continents and countries with the most significant challenges and successes in handling COVID-19.
+
+# Visualization
+
 
 # WHY THE PROJECT IS USEFUL
 Understanding COVID-19 trends is crucial for public health policy and resource allocation. This project provides:
