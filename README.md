@@ -1,5 +1,8 @@
 ![image alt](https://github.com/mamudjoof/COVID-19-Global-Impact-Analysis-Project-by-SQL/blob/main/more-than-4-million-for-new-covid-19-research.jpg?raw=true)
 
+# THE VISUALIZATION IN POWER BI CLICK BELOW TO VIEW THE PROJECT: 
+https://app.powerbi.com/groups/me/reports/31274f55-51e4-4f35-801f-edd57e1aa7f4/f4d39afe419f36598ba0?experience=power-bi
+
 # TITLE: SQL AND POWER BI ANALYSIS OF GLOBAL COVID-19 DATA
 
 # OBJECTIVE
