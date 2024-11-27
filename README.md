@@ -33,6 +33,7 @@ The following SQL queries and analyses were conducted to address the project’s
 
 # Visualization
 ![image alt](https://github.com/mamudjoof/COVID-19-Global-Impact-Analysis-Project-by-SQL/blob/main/Screenshot%20(245).png?raw=true)
+![image alt]()
 
 # WHY THE PROJECT IS USEFUL
 Understanding COVID-19 trends is crucial for public health policy and resource allocation. This project provides:
